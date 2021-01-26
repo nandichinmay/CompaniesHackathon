@@ -1,4 +1,5 @@
  Please enter the input in one line
+ 
  Input is List of tuples 
  
  Please see the examples below for more understanding:
